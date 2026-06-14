@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri May 29 09:28:30 2026
+# Process ID         : 12044
+# Current directory  : E:/UIT/HDL/Do_an_HDL/Do_an_HDL/Do_an_HDL.runs/synth_1
+# Command line       : vivado.exe -log CPU_Pipeline.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU_Pipeline.tcl
+# Log file           : E:/UIT/HDL/Do_an_HDL/Do_an_HDL/Do_an_HDL.runs/synth_1/CPU_Pipeline.vds
+# Journal file       : E:/UIT/HDL/Do_an_HDL/Do_an_HDL/Do_an_HDL.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-7HQBVAU
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i9-12900H
+# CPU Frequency      : 2918 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16851 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29736 MB
+# Available Virtual  : 15712 MB
+#-----------------------------------------------------------
+source CPU_Pipeline.tcl -notrace
